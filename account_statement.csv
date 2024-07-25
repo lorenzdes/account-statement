@@ -1,0 +1,48 @@
+Data;Conto;Numero ordine;Descrizione operazione;Tipo;ISIN;Circuito Pagamento;Quantità;Prezzo;Divisa;Importo lordo;Imposte;Commissioni;Valore netto
+01/04/2011;1612660;832562571;Versamento soldi sul conto 1612660;Versamento;USD;Internet banking;1000000;;USD;1000000;;;1000000
+01/11/2011;1612660;842062133;Operazione di acquisto Euro contro dollari (acquisto EUR);Versamento;EUR;Internet banking;300000;1;EUR;300524.7;524.7;;300000
+01/11/2011;1612660;842062133;Operazione di acquisto Euro contro dollari (vendita USD);Prelievo;USD;Internet banking;340920;1.1364;USD;342283.68;1363.68;;340920
+01/12/2011;1612660;844908859;Acquisto presso amazon.it: computer HP;Acquisto;USD;Carta di credito;523;1;USD;525;;2;523
+1/13/2011;1612660;845379585;Addebito bolletta Luce/gas;Acquisto;USD;Internet banking;1;380.78;USD;383.78;;3;380.78
+1/13/2011;1612660;845389782;Prelievo da sportello;Prelievo;USD;Pagobancomat;200;1;USD;200;;;200
+1/13/2011;1612660;845389783;Acquisto presso fornitura ufficio: cancelleria;Acquisto;EUR;Carta di credito;2;723;EUR;1504.62;58.62;;1446
+1/14/2011;1612660;845724131;Pagamento stipendi collaboratori;Acquisto;EUR;Internet banking;52;1650;EUR;85800;;;85800
+1/14/2011;1612660;845738467;Incassi licenze software ricorrenti;Vendita;USD;Internet banking;21;320;USD;6720;;;6720
+1/15/2011;1612660;844908863;Incasso per fattura 2021 57;Vendita;EUR;Internet banking;320;320;EUR;102400;;;102400
+1/18/2011;1612660;845379585;Rimborso spese consulenza;Acquisto;EUR;Carta di credito;6;17.85;EUR;107.1;;;107.1
+1/18/2011;1612660;845724131;Rimborso chilometrico;Acquisto;USD;Carta di credito;260;1.47;USD;382.2;;;382.2
+1/18/2011;1612660;846788154;Addebito spese telefoniche;Acquisto;EUR;Internet banking;1;4870;EUR;4949.12;82.12;3;4870
+1/18/2011;1612660;846829778;Versamento contributi;Prelievo;USD;Internet banking;1;107.05;USD;107.05;;;107.05
+1/20/2011;1612661;847677343;Operazione di acquisto Euro contro dollari (acquisto EUR);Versamento;EUR;Internet banking;500000;1;EUR;500764.82;764.82;;500000
+1/20/2011;1612660;847677343;Operazione di acquisto Euro contro dollari (vendita USD);Prelievo;USD;Internet banking;566100;1.1322;USD;568364.4;2264.4;;566100
+1/20/2011;1612661;846829779;Acquisto strumenti finanziari;Acquisto;NL0011585146;Internet banking;200;223.65;EUR;44864.19;;134.19;44730
+1/20/2011;1612661;847674719;Acquisto strumenti finanziari;Acquisto;IT0003128367;Internet banking;2300;6.873;EUR;15855.3237;;47.4237;15807.9
+1/21/2011;1612661;847936522;Acquisto strumenti finanziari;Acquisto;FR0000131104;Internet banking;400;58.97;EUR;23658.764;;70.764;23588
+1/25/2011;1612661;848682177;Acquisto strumenti finanziari;Acquisto;FR0000121014;Internet banking;80;632;EUR;50711.68;;151.68;50560
+1/27/2011;1612661;851148695;Acquisto strumenti finanziari;Acquisto;DE000BASF111;Internet banking;1200;73.28;EUR;88199.808;;263.808;87936
+02/02/2021;1612660;853513447;Acquisto materiali ufficio;Acquisto;EUR;Pagobancomat;1;124.83;EUR;124.83;;;124.83
+02/11/2021;1612660;856428934;Pagamento fattura 6753;Acquisto;USD;Internet banking;17;178.99;EUR;3089.45;46.62;;3042.83
+02/12/2021;1612660;857284376;Addebito bolletta Luce/gas;Acquisto;USD;Internet banking;1;380.78;USD;383.78;;3;380.78
+2/17/2021;1612660;858392147;Prelievo da sportello;Prelievo;USD;Pagobancomat;450;1;USD;450;;;450
+2/24/2021;1612660;862035154;Acquisto presso fornitura ufficio: cancelleria;Acquisto;EUR;Carta di credito;2;723;EUR;1504.62;58.62;;1446
+2/25/2021;1612660;862726873;Pagamento stipendi collaboratori;Acquisto;EUR;Internet banking;52;1650;EUR;85800;;;85800
+2/25/2021;1612660;862695152;Incassi licenze software ricorrenti;Vendita;USD;Internet banking;21;320;USD;6720;;;6720
+03/01/2021;1612660;854549092;Incasso per fattura 2021 62;Vendita;EUR;Internet banking;320;320;EUR;102400;;;102400
+03/05/2021;1612660;853511299;Rimborso spese consulenza;Acquisto;EUR;Carta di credito;6;17.85;EUR;107.1;;;107.1
+03/08/2021;1612661;867276126;Vendita strumenti finanziari;Vendita;NL0011585146;Internet banking;100;280.77;EUR;27992.769;;84.231;28077
+03/09/2021;1612661;868921041;Acquisto strumenti finanziari;Acquisto;FR0000131104;Internet banking;300;56.66;EUR;17048.994;;50.994;16998
+03/09/2021;1612661;868921049;Acquisto strumenti finanziari;Acquisto;NL0010877643;Internet banking;2100;14.01;EUR;29509.263;;88.263;29421
+3/22/2021;1612660;873085557;Pagamento fattura ad654;Acquisto;USD;Internet banking;22;1053;EUR;23212.62;46.62;;23166
+3/24/2021;1612660;876330493;Addebito bolletta Luce/gas;Acquisto;USD;Internet banking;1;380.78;USD;383.78;;3;380.78
+3/24/2021;1612660;876380385;Prelievo da sportello;Prelievo;USD;Pagobancomat;450;1;USD;450;;;450
+3/24/2021;1612660;876380386;Acquisto presso fornitura ufficio: cancelleria;Acquisto;EUR;Carta di credito;2;723;EUR;1504.62;58.62;;1446
+3/24/2021;1612660;876380387;Pagamento stipendi collaboratori;Acquisto;EUR;Internet banking;52;1650;EUR;85800;;;85800
+3/24/2021;1612660;864172366;Incassi licenze software ricorrenti;Vendita;USD;Internet banking;21;320;USD;6720;;;6720
+3/25/2021;1612660;875710145;Incasso per fattura 2021 62;Vendita;EUR;Internet banking;320;320;EUR;102400;;;102400
+3/25/2021;1612660;873945674;Rimborso spese consulenza;Acquisto;EUR;Carta di credito;6;17.85;EUR;107.1;;;107.1
+3/26/2021;1612660;877160320;Vendita strumenti finanziari;Vendita;NL0011585146;Internet banking;100;268.55;EUR;26935.565;;80.565;26855
+3/29/2021;1612660;876935171;Acquisto strumenti finanziari;Acquisto;IT0005282865;Internet banking;1000;56.66;EUR;56829.98;;169.98;56660
+3/29/2021;1612660;877091947;Vendita strumenti finanziari;Vendita;NL0010877643;Internet banking;2100;12.33;EUR;25970.679;;77.679;25893
+3/30/2021;1612660;878019412;Acquisto strumenti finanziari;Acquisto;FR0000131104;Internet banking;300;54.2;EUR;16308.78;;48.78;16260
+3/31/2021;1612660;874051493;Acquisto strumenti finanziari;Acquisto;IT0000336518;Internet banking;15000;0.55;EUR;8274.75;;24.75;8250
+3/31/2021;1612660;878233740;Acquisto strumenti finanziari;Acquisto;US7170811035;Internet banking;220;48.99;EUR;10810.1334;;32.3334;10777.8
